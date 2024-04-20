@@ -20,6 +20,7 @@ namespace Ejercicio5 {
             }
             promedio = suma / i;
             Console.WriteLine("El promedio es: " + promedio);
+            Console.ReadKey();
         }
     }
 }
