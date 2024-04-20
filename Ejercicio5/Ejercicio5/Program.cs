@@ -8,9 +8,10 @@ namespace Ejercicio5 {
     class Program {
         static void Main(string[] args) {
             int promedio = 0, suma = 0, i = 0;
+            Boolean continuar = true;
             Console.WriteLine("Ingrese un valor positivo para promediar, o ingrese cero para salir: ");
-            int num = int.Parse(Console.ReadLine());
-            while (num > 0) {
+            while (continuar) {
+                int num = int.Parse(Console.ReadLine());
                 suma = suma + num;
                 i++;
             }
