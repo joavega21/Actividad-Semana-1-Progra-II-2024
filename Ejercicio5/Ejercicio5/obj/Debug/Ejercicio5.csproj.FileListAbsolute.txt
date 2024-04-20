@@ -4,3 +4,4 @@ C:\Users\jonny\source\repos\Actividad-Semana-1-Progra-II-2024\Ejercicio5\Ejercic
 C:\Users\jonny\source\repos\Actividad-Semana-1-Progra-II-2024\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
 C:\Users\jonny\source\repos\Actividad-Semana-1-Progra-II-2024\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.exe
 C:\Users\jonny\source\repos\Actividad-Semana-1-Progra-II-2024\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.pdb
+C:\Users\jonny\source\repos\Actividad-Semana-1-Progra-II-2024\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.AssemblyReference.cache
