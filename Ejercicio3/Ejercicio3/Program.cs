@@ -12,8 +12,8 @@ namespace Ejercicio3 {
             do {
                 num = int.Parse(Console.ReadLine());
                 suma = suma + num;
-                Console.WriteLine("El total de la suma es: {0} ", suma);
             } while (num > 0);
+            Console.WriteLine("El total de la suma es: {0} ", suma);
         }
     }
 }
