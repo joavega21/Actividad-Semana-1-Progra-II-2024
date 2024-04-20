@@ -11,9 +11,10 @@ namespace Ejercicio5 {
             double num = 0, i = 0, suma = 0;
             double promedio = 0;
             while (continuar) {
-                continuar = !Console.ReadLine().Equals("0");
+                
                 Console.Write("Ingrese numero positivo: ");
                 num = double.Parse(Console.ReadLine());
+                continuar = !Console.ReadLine().Equals("0");
                 suma = suma + num;
                 i++;
                 //Console.WriteLine("Si desea continuar presione cualquier tecla, si desea salir presione 0: ");
