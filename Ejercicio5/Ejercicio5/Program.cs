@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 namespace Ejercicio5 {
     class Program {
         static void Main(string[] args) {
-            int promedio = 0, suma = 0, i = 0;
+            int suma = 0, i = 0;
+            double promedio = 0;
             Boolean continuar = true;
             Console.WriteLine("Ingrese valores positivos para promediar, o ingrese cero para salir: ");
             while (continuar) {
