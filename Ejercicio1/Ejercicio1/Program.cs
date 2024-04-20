@@ -18,10 +18,9 @@ namespace Ejercicio1 {
                     Console.WriteLine("El numero ingresado es positivo");
                 }else {
                     Console.WriteLine("El valor ingresado no es valido");
-                    continuar = !Console.ReadLine().Equals("0");
                 }
                 //Console.Write("Ingrese cualquier tecla para ingresar otro valor o presione 0 para salir: ");
-                
+                continuar = !Console.ReadLine().Equals("0");
             }
         }
     }
