@@ -19,7 +19,7 @@ namespace Ejercicio1 {
                 }else {
                     Console.WriteLine("El valor ingresado no es valido");
                 }
-                //Console.Write("Ingrese cualquier tecla para ingresar otro valor o presione 0 para salir: ");
+                Console.Write("Ingrese cualquier tecla para ingresar otro valor o presione 0 para salir: ");
                 continuar = !Console.ReadLine().Equals("0");
             }
         }
