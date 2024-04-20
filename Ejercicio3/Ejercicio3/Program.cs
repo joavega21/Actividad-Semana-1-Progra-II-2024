@@ -8,7 +8,7 @@ namespace Ejercicio3 {
     class Program {
         static void Main(string[] args) {
             int num = 0, suma = 0;
-            Console.WriteLine("Ingrese un numero positivo para sumar: ");
+            Console.WriteLine("Ingrese numeros positivos para sumar o ingrese un valor negativo o 0 para salir: ");
             do {
                 num = int.Parse(Console.ReadLine());
                 suma = suma + num;
