@@ -9,7 +9,7 @@ namespace Ejercicio5 {
         static void Main(string[] args) {
             int promedio = 0, suma = 0, i = 0;
             Boolean continuar = true;
-            Console.WriteLine("Ingrese un valor positivo para promediar, o ingrese cero para salir: ");
+            Console.WriteLine("Ingrese valores positivos para promediar, o ingrese cero para salir: ");
             while (continuar) {
                 int num = int.Parse(Console.ReadLine());
                 suma = suma + num;
