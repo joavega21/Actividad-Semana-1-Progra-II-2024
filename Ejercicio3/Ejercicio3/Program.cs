@@ -14,6 +14,7 @@ namespace Ejercicio3 {
                 suma = suma + num;
             } while (num > 0);
             Console.WriteLine("El total de la suma es: {0} ", suma);
+            Console.ReadKey();
         }
     }
 }
