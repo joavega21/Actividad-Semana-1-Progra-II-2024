@@ -17,11 +17,9 @@ namespace Ejercicio1 {
                 } else {
                     Console.WriteLine("El numero ingresado es positivo");
                 }
+                Console.Write("Ingrese otro numero para continuar o presione 0 para salir: ");
+                continuar = !Console.ReadLine().Equals("0");
             }
-            Console.Write("Ingrese otro numero para continuar o presione 0 para salir: ");
-            continuar = !Console.ReadLine().Equals("0");
-            
-
         }
     }
 }
