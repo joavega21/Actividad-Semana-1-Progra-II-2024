@@ -12,7 +12,7 @@ namespace Ejercicio5 {
             double promedio = 0;
             Console.Write("Ingrese numero positivo para promediar o ingrese 0 para salir: ");
             num = int.Parse(Console.ReadLine());
-            while (num > 0) {
+            while (num >= 0) {
 
                 suma = suma + num;
                 i++;
