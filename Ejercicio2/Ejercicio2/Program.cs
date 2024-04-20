@@ -9,7 +9,7 @@ namespace Ejercicio2 {
         static void Main(string[] args) {
             int num = 1;
             while(num <= 10) {
-                Console.WriteLine("{0}");
+                Console.WriteLine("{0}",num);
                 num++;
             }
             Console.ReadKey();
