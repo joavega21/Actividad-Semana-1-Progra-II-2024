@@ -15,11 +15,11 @@ namespace Ejercicio5 {
                 num = double.Parse(Console.ReadLine());
                 suma = suma + num;
                 i++;
-                Console.WriteLine("Si desea continuar presione cualquier tecla, si desea salir presione 0: ");
+                Console.Write("Si desea continuar presione cualquier tecla, si desea salir presione 0: ");
                 continuar = !Console.ReadLine().Equals("0");
             }
             promedio = suma / i;
-            Console.WriteLine("El promedio es: " + promedio);
+            Console.Write("El promedio es: " + promedio);
             Console.ReadKey();
         }
     }
