@@ -12,6 +12,7 @@ namespace Ejercicio3 {
                 Console.WriteLine("Ingrese un numero positivo para sumar: ");
                 num = int.Parse(Console.ReadLine());
                 suma = suma + num;
+                Console.WriteLine("El total de la suma es: ", suma);
             } while (num > 0);
         }
     }
