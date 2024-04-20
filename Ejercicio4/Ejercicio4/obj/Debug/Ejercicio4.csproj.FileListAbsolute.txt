@@ -1,0 +1,6 @@
+C:\Users\jonny\source\repos\Actividad-Semana-1-Progra-II-2024\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe.config
+C:\Users\jonny\source\repos\Actividad-Semana-1-Progra-II-2024\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.exe
+C:\Users\jonny\source\repos\Actividad-Semana-1-Progra-II-2024\Ejercicio4\Ejercicio4\bin\Debug\Ejercicio4.pdb
+C:\Users\jonny\source\repos\Actividad-Semana-1-Progra-II-2024\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Users\jonny\source\repos\Actividad-Semana-1-Progra-II-2024\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.exe
+C:\Users\jonny\source\repos\Actividad-Semana-1-Progra-II-2024\Ejercicio4\Ejercicio4\obj\Debug\Ejercicio4.pdb

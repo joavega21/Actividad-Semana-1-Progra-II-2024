@@ -12,6 +12,7 @@ namespace Ejercicio4 {
             do {
                 num = int.Parse(Console.ReadLine());
                 suma = suma + num;
+                i++;
             } while (i < 5);
             Console.WriteLine("El total de la suma es: {0} ", suma);
             Console.ReadKey();
