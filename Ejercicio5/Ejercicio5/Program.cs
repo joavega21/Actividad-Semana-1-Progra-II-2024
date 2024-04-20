@@ -16,7 +16,7 @@ namespace Ejercicio5 {
                 num = int.Parse(Console.ReadLine());
                 suma = suma + num;
                 i++;
-                Console.WriteLine("Si desea continuar presione cualquier tecla, si desea salir presione 0: ");
+                //Console.WriteLine("Si desea continuar presione cualquier tecla, si desea salir presione 0: ");
                 continuar = !Console.ReadLine().Equals("0");
             }
             promedio = suma / i;
