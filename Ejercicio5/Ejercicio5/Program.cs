@@ -14,9 +14,9 @@ namespace Ejercicio5 {
                 int num = int.Parse(Console.ReadLine());
                 suma = suma + num;
                 i++;
+                continuar = !Console.ReadLine().Equals("0");
             }
             promedio = suma / i;
-            continuar = !Console.ReadLine().Equals("0");
             Console.WriteLine("El promedio de los valores ingresados es: {0}", promedio);
         }
     }
